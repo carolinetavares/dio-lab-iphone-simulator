@@ -113,19 +113,15 @@ cd seu_repositorio/src/main/java/app
 
 3. Compile e execute o projeto:
 ```bash
-    javac App.java
-    java App
+javac App.java
+java App
 ```
 
 ## Tecnologias Utilizadas
 
-    Java 11 ou superior
-    IDE de sua preferência (Eclipse, IntelliJ, etc.)
+Java 11 ou superior
+IDE de sua preferência (Eclipse, IntelliJ, etc.)
 
 ## Contribuição
 
 Sinta-se à vontade para contribuir com este projeto! Sugestões e melhorias são sempre bem-vindas.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
